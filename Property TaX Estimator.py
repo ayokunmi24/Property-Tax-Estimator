@@ -1,6 +1,4 @@
 
-#add assignment header comment lines here
-
 #Import Modules
 import random
 
